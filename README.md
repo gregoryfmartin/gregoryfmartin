@@ -6,6 +6,6 @@ Employer:          Progressive Insurance
 Title:             Senior Linux Engineer
 Loc:               Alliance, OH
 Hobbies:           Programming/Reading/Writing/Music/Gaming
-Currently Playing: Resident Evil Revelations 2
-Current Project:   Eldoria
+Currently Playing: Fire Emblem Warriors: Three Hopes
+Current Project:   Eldoria/PSPlatformer/Undisclosed Title
 ```
