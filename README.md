@@ -7,5 +7,5 @@ Title:              Senior Linux Engineer
 Loc:                Alliance, OH
 Hobbies:            Programming/Reading/Writing/Music/Gaming
 Currently Playing:  Fire Emblem Warriors: Three Hopes
-Current Project(s): Eldoria/PSPlatformer/Undisclosed Title
+Current Project(s): Undisclosed Title
 ```
